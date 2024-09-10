@@ -1,2 +1,3 @@
-# javascript-module-1-lesson-1
- javascript-module-1-lesson-1
+Lectia nr 1
+Practica
+Exercitii
